@@ -1,15 +1,11 @@
 # BayScope-Apk
-🚢 BayScope 
-BAPLIE Viewer &  Manager -professional application that allows you to open and edit BAPLIE files and export the modified versions in the following formats:
-
-
 
 🚢 BayScope
 BAPLIE Viewer & Manager
 
 Created by Chief Mate Mamuka Nakashidze
 
-BayScope Lite is a professional application that allows you to open and edit BAPLIE files and export the modified versions in the following formats:
+BayScope is a professional application that allows you to open and edit BAPLIE files and export the modified versions in the following formats:
 
 EDI 1.5 / 2.0 / 2.2
 
