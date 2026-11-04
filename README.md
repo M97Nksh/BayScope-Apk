@@ -21,4 +21,4 @@ This unique pocket-sized tool is designed to make your daily work significantly 
 
 The application will be particularly useful not only for deck officers but also for electro-technical officers, as it enables them to quickly locate specific reefer containers and check their corresponding Set Points.
 
-At this stage, BayScope Lite is available exclusively for Android devices.
+At this stage, BayScope is available exclusively for Android devices.
